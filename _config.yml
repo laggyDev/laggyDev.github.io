@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "Learning curve hitting HARD on you... But never give up!!"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Ed Seo"
-description              : "This website is personal notes I've learned"
+name                     : "Ed's Blog"
+description              : "This website is for the personal notes I've learned"
 url                      : "https://laggydev.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,15 +104,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Ed Seo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Always looking for interesting things"
   location         : "Somewhere"
-  email            :
+  email            : "ed.seo88@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto:ed.seo88@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
